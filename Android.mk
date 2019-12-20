@@ -17,7 +17,7 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter milletwifi millet3g milletlte,$(TARGET_DEVICE)),)
+ifneq ($(filter milletwifi millet3g milletlte milletltetmo,$(TARGET_DEVICE)),)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := libtime_genoff
