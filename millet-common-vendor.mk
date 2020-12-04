@@ -47,9 +47,14 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/millet-common/proprietary/vendor/etc/sec_config:system/vendor/etc/sec_config \
     vendor/samsung/millet-common/proprietary/vendor/lib/hw/camera.vendor.msm8226.so:system/vendor/lib/hw/camera.vendor.msm8226.so \
     vendor/samsung/millet-common/proprietary/vendor/lib/hw/sensors.vendor.msm8226.so:system/vendor/lib/hw/sensors.vendor.msm8226.so \
+    vendor/samsung/millet-common/proprietary/vendor/lib/libaec_algo_front.so:system/vendor/lib/libaec_algo_front.so \
+    vendor/samsung/millet-common/proprietary/vendor/lib/libaec_algo_rear.so:system/vendor/lib/libaec_algo_rear.so \
+    vendor/samsung/millet-common/proprietary/vendor/lib/libaf_algo_rear.so:system/vendor/lib/libaf_algo_rear.so \
     vendor/samsung/millet-common/proprietary/vendor/lib/libarcsoft_panorama_burstcapture.so:system/vendor/lib/libarcsoft_panorama_burstcapture.so \
     vendor/samsung/millet-common/proprietary/vendor/lib/libarcsoft_selfie_camera_lite.so:system/vendor/lib/libarcsoft_selfie_camera_lite.so \
     vendor/samsung/millet-common/proprietary/vendor/lib/libatparser.so:system/vendor/lib/libatparser.so \
+    vendor/samsung/millet-common/proprietary/vendor/lib/libawb_algo_front.so:system/vendor/lib/libawb_algo_front.so \
+    vendor/samsung/millet-common/proprietary/vendor/lib/libawb_algo_rear.so:system/vendor/lib/libawb_algo_rear.so \
     vendor/samsung/millet-common/proprietary/vendor/lib/libcordon.so:system/vendor/lib/libcordon.so \
     vendor/samsung/millet-common/proprietary/vendor/lib/libdrmdecrypt.so:system/vendor/lib/libdrmdecrypt.so \
     vendor/samsung/millet-common/proprietary/vendor/lib/libfactoryutil.so:system/vendor/lib/libfactoryutil.so \
@@ -109,6 +114,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/millet-common/proprietary/vendor/lib/libmmcamera_faceproc.so:system/vendor/lib/libmmcamera_faceproc.so \
     vendor/samsung/millet-common/proprietary/vendor/lib/libmmcamera_hdr_gb_lib.so:system/vendor/lib/libmmcamera_hdr_gb_lib.so \
     vendor/samsung/millet-common/proprietary/vendor/lib/libmmcamera_image_stab.so:system/vendor/lib/libmmcamera_image_stab.so \
+    vendor/samsung/millet-common/proprietary/vendor/lib/libmmcamera_imglib.so:system/vendor/lib/libmmcamera_imglib.so \
     vendor/samsung/millet-common/proprietary/vendor/lib/libmmcamera_rohm_brce064gwz_eeprom.so:system/vendor/lib/libmmcamera_rohm_brce064gwz_eeprom.so \
     vendor/samsung/millet-common/proprietary/vendor/lib/libmmcamera_sr130pc20.so:system/vendor/lib/libmmcamera_sr130pc20.so \
     vendor/samsung/millet-common/proprietary/vendor/lib/libmmcamera_sr352.so:system/vendor/lib/libmmcamera_sr352.so \
