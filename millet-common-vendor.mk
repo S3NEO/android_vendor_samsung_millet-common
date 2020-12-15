@@ -17,7 +17,6 @@
 
 PRODUCT_COPY_FILES += \
     vendor/samsung/millet-common/proprietary/vendor/bin/adsprpcd:system/vendor/bin/adsprpcd \
-    vendor/samsung/millet-common/proprietary/vendor/bin/btnvtool:system/vendor/bin/btnvtool \
     vendor/samsung/millet-common/proprietary/vendor/bin/ds_fmc_appd:system/vendor/bin/ds_fmc_appd \
     vendor/samsung/millet-common/proprietary/vendor/bin/efsks:system/vendor/bin/efsks \
     vendor/samsung/millet-common/proprietary/vendor/bin/hci_qcomm_init:system/vendor/bin/hci_qcomm_init \
